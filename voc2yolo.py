@@ -32,11 +32,11 @@ def yolo_to_xml_bbox(bbox, w, h):
     ymax = int((bbox[1] * h) + h_half_len)
     return [xmin, ymin, xmax, ymax]
 
-
-classes = ['pedestrian','people','bicycle','car','van','truck','tricycle','awning-tricycle','bus','motor','drone']
-input_dir = "/content/drive/MyDrive/project-drone/Drone 1st it/train 1st/annotations"
-output_dir = "/content/drive/MyDrive/project-drone/Drone 1st it/train 1st/labels"
-image_dir = "/content/drive/MyDrive/project-drone/Drone 1st it/train 1st/images"
+# classes
+classes = ['sunglass','hat','jacket','shirt','pants','shorts','skirt','dress','bag','shoe','mask']
+input_dir = "/content/drive/MyDrive/train it 4th/annotations"
+output_dir = "/content/drive/MyDrive/train it 4th/labels"
+image_dir = "/content/drive/MyDrive/train it 4th/images"
 
 # create the labels folder (output directory)
 #os.mkdir(output_dir)
