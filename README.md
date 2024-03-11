@@ -1,6 +1,6 @@
 # fashion-clothing-detection-and-classification
 
-## **Clothing Detection**
+**Clothing Detection**
 
 Model : YoloV8m
 
