@@ -28,9 +28,11 @@ import xml.etree.ElementTree as ET
 from os import listdir, getcwd
 from os.path import join
 
+# mount ti google drive
 from google.colab import drive
 drive.mount('/content/drive')
 
+# load model
 model = torch.load(f='/content/drive/MyDrive/model_it4.pt')
 
 images_path = '/content/drive/MyDrive/person_images.zip (Unzipped Files)/2023-05-31'
@@ -73,7 +75,6 @@ def check_detection(imgs_path):
 
       #print("---")
 
-
       # crop image from yolo format
       dh, dw , _= ori_im.shape
       x_center = cords[0]
@@ -87,7 +88,6 @@ def check_detection(imgs_path):
       x = round(x_center - w / 2)
       y = round(y_center - h / 2)
 
-
       #if conf >= 0.25:
         #print(class_id)
         #print(class_pred)
@@ -97,6 +97,6 @@ def check_detection(imgs_path):
   return class_conf,total_labels_box
 
 img = random.sample(os.listdir(images_path),1)
-img
+#img
 
 check_detection(os.path.join(images_path,img[0]))
