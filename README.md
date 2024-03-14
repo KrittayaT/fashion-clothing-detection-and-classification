@@ -1,5 +1,8 @@
 # fashion-clothing-detection-and-classification
 
+This project aims to detect and classify clothing items by color, along with detecting accessories as well. 
+This detection process will initially focus on identifying clothing items worn by individuals before being developed into a search engine to locate individuals based on their clothing. The project aims to be utilized for security purposes.
+
 ## **Clothing Detection**
 
 Model : YoloV8m
