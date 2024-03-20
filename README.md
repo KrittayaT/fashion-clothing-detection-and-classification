@@ -22,4 +22,4 @@ Report
 
 <img src="https://github.com/KrittayaT/fashion-clothing-detection-and-classification/assets/162971519/7c1dac17-baf7-4331-ac2e-bef39c880efa" width="240" height="420">
 
-## Accessories classification
+
