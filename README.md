@@ -53,7 +53,7 @@ Confusion matrix
 
 Report
 
-<img src="https://github.com/KrittayaT/fashion-clothing-detection-and-classification/assets/162971519/7a90e91a-0266-4c2b-bcff-6c81bb04cfac" width="600" height="200">
+<img src="https://github.com/KrittayaT/fashion-clothing-detection-and-classification/assets/162971519/7a90e91a-0266-4c2b-bcff-6c81bb04cfac" width="420" height="150">
 
 
 
