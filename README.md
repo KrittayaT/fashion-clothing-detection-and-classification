@@ -27,4 +27,12 @@ Report
 
 Model : EfficientNetV2B1 Keras
 
+## Mask classification 
+
+Class : mask , no_mask
+
+Confusion matrix
+
+
+
 ### Prediction
