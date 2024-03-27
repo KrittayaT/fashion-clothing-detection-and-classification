@@ -39,7 +39,7 @@ Confusion matrix
 
 Report
 
-<img src="https://github.com/KrittayaT/fashion-clothing-detection-and-classification/assets/162971519/83d5dba0-edf3-40dd-845c-be4bb95e873b" width="600" height="200">
+<img src="https://github.com/KrittayaT/fashion-clothing-detection-and-classification/assets/162971519/83d5dba0-edf3-40dd-845c-be4bb95e873b" width="400" height="200">
 
 
 ### Glasses classification
@@ -48,7 +48,7 @@ Class : eye_glasses , no_glaaes, sun_glasses
 
 Confusion matrix
 
-<img src="https://github.com/KrittayaT/fashion-clothing-detection-and-classification/assets/162971519/87811dad-9602-4c79-a7ca-2d4f7ca85635" width="560" height="400">
+<img src="https://github.com/KrittayaT/fashion-clothing-detection-and-classification/assets/162971519/87811dad-9602-4c79-a7ca-2d4f7ca85635" width="400" height="300">
 
 
 Report
