@@ -20,7 +20,7 @@ Report
 Prediction
 
 
-<img src="https://github.com/KrittayaT/fashion-clothing-detection-and-classification/assets/162971519/7c1dac17-baf7-4331-ac2e-bef39c880efa" width="240" height="420">
+<img src="https://github.com/KrittayaT/fashion-clothing-detection-and-classification/assets/162971519/7c1dac17-baf7-4331-ac2e-bef39c880efa" width="250" height="400">
 
 
 ## **Classification**
@@ -56,4 +56,4 @@ Report
 <img src="https://github.com/KrittayaT/fashion-clothing-detection-and-classification/assets/162971519/7a90e91a-0266-4c2b-bcff-6c81bb04cfac" width="600" height="200">
 
 
-Prediction
+
