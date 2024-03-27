@@ -31,8 +31,6 @@ drive.mount('/content/drive')
 model_mask = tf.keras.saving.load_model('/content/drive/MyDrive/model_mask.keras')
 model_glass = tf.keras.saving.load_model('/content/model_glasses_2.keras')
 
-img_path = '/content/drive/MyDrive/person_images.zip (Unzipped Files)/2023-05-31'
-
 test_pic = '/content/s93-pa-4273.jpg' # ref : https://photodune.net/item/indian-man-volunteer-wearing-face-mask-in-the-new-normal-full-body/34833655
 
 shape=(160,400)
