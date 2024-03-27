@@ -27,12 +27,19 @@ Report
 
 Model : EfficientNetV2B1 Keras
 
+
 ## Mask classification 
 
 Class : mask , no_mask
 
 Confusion matrix
 
+<img src="https://github.com/KrittayaT/fashion-clothing-detection-and-classification/assets/162971519/9813d6b4-c957-4590-959a-611a5afc6b66" width="560" height="400">
+
+
+Report
+
+<img src="https://github.com/KrittayaT/fashion-clothing-detection-and-classification/assets/162971519/83d5dba0-edf3-40dd-845c-be4bb95e873b" width="600" height="200">
 
 
 ### Prediction
